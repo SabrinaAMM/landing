@@ -1,0 +1,16 @@
+.card {
+    box-shadow: 0 0 5px rgb(230,230,230);
+    border-radius: 4px;
+    text-align: center;
+    width: 200px;
+    padding: 15px;
+}
+
+.card img {
+    height: 100px;
+}
+
+.card p {
+    color: #6B6C6C;
+    font-size: 16px;
+}
